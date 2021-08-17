@@ -24,3 +24,6 @@ $ python3 client.py
 ```
 
 ### Screenshots
+![tic-tac-toe-1](https://user-images.githubusercontent.com/51091231/129674799-b43c5191-c776-439a-af40-35d3bca825bf.png)
+![tic-tac-toe-2](https://user-images.githubusercontent.com/51091231/129674804-cf72c8ce-4814-4d9a-8577-672079ddb0c3.png)
+![tic-tac-toe-3](https://user-images.githubusercontent.com/51091231/129674820-dc37928e-8fef-4fc1-a2ff-02a238feb736.png)
